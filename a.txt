@@ -1,1 +1,1 @@
-This is first git file from CLI to GUI
+This is after deleting 1st line and adding new line
